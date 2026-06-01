@@ -644,4 +644,46 @@ Con esto buscamos lograr que nuestra papeleria (papirosso) tenga un mejor contro
 <img loading="lazy" src="https://github.com/jorvsk2007/jorvsk2007.github.io/blob/main/imagenesRepoGeneral/2026-05-29_18-46-51.png">
 <img loading="lazy" src="https://github.com/jorvsk2007/jorvsk2007.github.io/blob/main/imagenesRepoGeneral/2026-05-29_18-46-54.png">
 
+## Proyecto 22: Huellitas
 
+Huellitas es una fundación enfocada en brindar un hogar y mejores oportunidades a animales en situación de abandono. Con el desarrollo de una página web, se mejoró significativamente la presencia digital de la fundación, ya que anteriormente únicamente operaba de manera presencial y sin publicidad en línea.
+
+Para solucionar este problema, se desarrolló una plataforma web conectada a una base de datos que almacena la información completa de todos los animales disponibles en el refugio. Además, se implementó un apartado de donaciones que permite apoyar económicamente a la fundación, ayudando a convertir a Huellitas en un mejor refugio y hogar temporal para los animales.
+
+### Tecnologías utilizadas
+
+* Javascript
+* PostgreSQL
+* CSS
+* GitHub
+
+### Capturas del proyecto
+<details>
+<summary>🖼️ Ver capturas de pantalla</summary>
+
+| | |
+|---|---|
+| <img loading="lazy" src="https://github.com/user-attachments/assets/f4101a5b-38cd-4a72-bd41-1ae500c4301b" alt="Página principal de Huellitas" width="400"/> | <img loading="lazy" src="https://github.com/user-attachments/assets/ad53f7b0-2d23-4993-b25c-ee4116ded8f9" alt="Sección de ayuda y donaciones" width="400"/> |
+| <img loading="lazy" src="https://github.com/user-attachments/assets/2c98c9e6-239b-43a4-a988-448c29393ad6" alt="Registro de adoptante" width="400"/> | <img loading="lazy" src="https://github.com/user-attachments/assets/f2656b9e-e6fd-4844-9b98-8d59ee6422f3" alt="Inicio de sesión de adoptante" width="400"/> |
+| <img loading="lazy" src="https://github.com/user-attachments/assets/7aca0e43-14f4-4d68-af34-8d052f3c9f53" alt="Animales en adopción" width="400"/> | <img loading="lazy" src="https://github.com/user-attachments/assets/5d8e2741-4333-443e-8218-3556306e3e6a" alt="Listado de animales en adopción" width="400"/> |
+| <img loading="lazy" src="https://github.com/user-attachments/assets/c3008166-4296-48ad-a241-9f85e9c20780" alt="Más animales disponibles" width="400"/> | <img loading="lazy" src="https://github.com/user-attachments/assets/d0c31a67-85c2-4223-be17-a3bbfe92ee27" alt="Inicio del módulo de donaciones" width="400"/> |
+| <img loading="lazy" src="https://github.com/user-attachments/assets/03d79ecf-50bb-4b02-bdfc-f9c6a8243d63" alt="Donación de alimento" width="400"/> | <img loading="lazy" src="https://github.com/user-attachments/assets/c47aeb91-2d27-4da4-97cc-df5d6c26a1e3" alt="Donación de limpieza y salud" width="400"/> |
+| <img loading="lazy" src="https://github.com/user-attachments/assets/79d3ad59-ece6-4381-8252-d273dbe0a111" alt="Tabla de necesidades" width="400"/> | <img loading="lazy" src="https://github.com/user-attachments/assets/ced17b40-b9a1-49d1-b99b-574fe791ead0" alt="Resumen de donación" width="400"/> |
+| <img loading="lazy" src="https://github.com/user-attachments/assets/56fc655b-6555-44ba-a357-29360942bc30" alt="Mascotas al cuidado del empleado" width="400"/> | <img loading="lazy" src="https://github.com/user-attachments/assets/adb0a879-6013-47d9-9e9d-768147b96234" alt="Mascotas adoptadas" width="400"/> |
+| <img loading="lazy" src="https://github.com/user-attachments/assets/43e2e38f-429d-427d-b7d9-2293bb879a39" alt="Mascotas buscando hogar" width="400"/> | <img loading="lazy" src="https://github.com/user-attachments/assets/52c46f75-f93f-4be4-b1bb-4b501e5c0f1e" alt="Panel de entrevistas" width="400"/> |
+| <img loading="lazy" src="https://github.com/user-attachments/assets/7fa9537e-6d22-4dff-b59e-491ceb1189d7" alt="Horarios del empleado" width="400"/> | <img loading="lazy" src="https://github.com/user-attachments/assets/23a875b0-0dc7-47e8-bd12-d46250a8a43c" alt="Cuenta del empleado" width="400"/> |
+
+</details>
+
+
+### Características principales
+
+* Gestión de animales disponibles para adopción.
+* Base de datos con información detallada de cada animal.
+* Sistema de donaciones.
+* Mejor presencia y difusión digital para la fundación.
+* Interfaz amigable y accesible para los usuarios.
+
+### 🔗 Enlaces
+Código Fuente: [Repositorio](https://github.com/sofi-14/gitfin)
+Página web: [PáginaWeb](https://sofi-14.github.io/gitfin/)
