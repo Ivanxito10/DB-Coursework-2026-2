@@ -64,7 +64,7 @@ Código Fuente Frontend: [Repositorio Frontend](https://github.com/Diegocstln/mi
 
 Demo en Vivo: [Booksnexus Web](https://diegocstln.github.io/mi-proyecto-bd/)
 
-Para el acceso con las teclas CTRL + SHIFT + A
+Para el acceso administrador con las teclas CTRL + SHIFT + A
 
 Admin de chocolate - contraseña: booksnexus2026
 
