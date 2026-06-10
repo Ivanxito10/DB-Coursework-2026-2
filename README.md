@@ -59,7 +59,9 @@ Plataforma web tipo red social enfocada en lectores, donde los usuarios pueden r
 
 ### 🔗 Enlaces
 Código Fuente Backend: [Repositorio Backend](https://github.com/Diegocstln/booksnexus-back)
+
 Código Fuente Frontend: [Repositorio Frontend](https://github.com/Diegocstln/mi-proyecto-bd)
+
 Demo en Vivo: [Booksnexus Web](https://diegocstln.github.io/mi-proyecto-bd/)
 
 ## Proyecto 2: DestinyCafe (Sistema de Gestión para Cafetería Artesanal)
