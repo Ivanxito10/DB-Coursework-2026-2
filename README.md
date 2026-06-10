@@ -41,11 +41,11 @@ Plataforma web tipo red social enfocada en lectores, donde los usuarios pueden r
 <details>
 <summary>🖼️ Ver capturas de pantalla</summary>
 
-| | |
-|---|---|
-| <img loading="lazy" src="https://github.com/user-attachments/assets/3683878c-1592-4f2a-894e-cd170b474878" alt="Vista principal de Booksnexus" width="800"/> 
-| <img loading = "lazy" width="800" alt="Login" src="https://github.com/user-attachments/assets/a23f5224-c830-419d-990c-65331520df5f" /> 
-  <img loading ="lazy" width="800" alt="Perfil de usuario" src="https://github.com/user-attachments/assets/a7d1700a-7887-4c79-87ad-92082ed4bbe7" />
+| |
+|---|
+| <img loading="lazy" src="https://github.com/user-attachments/assets/3683878c-1592-4f2a-894e-cd170b474878" alt="Vista principal de Booksnexus" width="800"/> | 
+| <img loading = "lazy" width="400" alt="Login" src="https://github.com/user-attachments/assets/a23f5224-c830-419d-990c-65331520df5f" /> | 
+|  <img loading ="lazy" width="800" alt="Perfil de usuario" src="https://github.com/user-attachments/assets/a7d1700a-7887-4c79-87ad-92082ed4bbe7" />|
 </details>
 
 ### ✨ Funcionalidades principales
@@ -59,7 +59,9 @@ Plataforma web tipo red social enfocada en lectores, donde los usuarios pueden r
 
 ### 🔗 Enlaces
 Código Fuente Backend: [Repositorio Backend](https://github.com/Diegocstln/booksnexus-back)
+
 Código Fuente Frontend: [Repositorio Frontend](https://github.com/Diegocstln/mi-proyecto-bd)
+
 Demo en Vivo: [Booksnexus Web](https://diegocstln.github.io/mi-proyecto-bd/)
 Para el acceso con las teclas CTRL + SHIFT + A
 Admin de chocolate - contraseña: booksnexus2026
@@ -1015,13 +1017,9 @@ Sistema integral para la gestión de inventario, ventas y distribuicion de abarr
 
 <details>
 <summary>🖼️ Ver capturas de pantalla</summary>
-
-| | |
-|---|---|
-| <img loading="lazy" src="https://github.com/user-attachments/assets/4e5635a8-4fe3-4789-a8aa-ad3ef39d7300" alt="Pantalla de login" width="800"/> | |
-| <img loading="lazy" src="https://github.com/user-attachments/assets/9317424e-674d-4877-a1bd-7e6cb287e254" alt="Pantalla de inicio admin" width="800"/> | |
-| <img loading="lazy" src="https://github.com/user-attachments/assets/1d013572-cf13-4fa7-bd7a-c60fc9e334eb" alt="Detalles tabla trabajador" width="800"/> | |
-
+<img src="https://github.com/user-attachments/assets/4e5635a8-4fe3-4789-a8aa-ad3ef39d7300" alt="Pantalla de login" loading="lazy" width="800">
+<img src="https://github.com/user-attachments/assets/9317424e-674d-4877-a1bd-7e6cb287e254" alt="Pantalla de inicio admin" loading="lazy" width="800">
+<img src="https://github.com/user-attachments/assets/1d013572-cf13-4fa7-bd7a-c60fc9e334eb" alt="Detalles tabla trabajador" loading="lazy" width="800">
 </details>
 
 ### 🔗 Enlaces
