@@ -1043,6 +1043,10 @@ rdBg2yGGGR
 **GitHub:** https://github.com/jorvsk2007/jorvsk2007.github.io.git
 **LandingPage:** https://jorvsk2007.github.io/
 
+### Formas de acceder
+**Trabajador:** CHOC000101HDFRRR00  **Contraseña:** chocolate123
+**Cliente:** CHOC000101HDFRRR99 **Contraseña:** chocolate123
+
 ### Descripción del Proceso de Normalización
 Mediante nuestro proyecto buscamos implementar una automatizacion para cobros, registro de mercancias y clientes así como trabajadores mediante un portal web para agilizar el tiempo de una venta y reducir el consumo de papel y errores matemáticos.
 Con esto buscamos lograr que nuestra papeleria (papirosso) tenga un mejor control de su mercancia así como sus ventas y agregar la funcionalidad de que los clientes más frecuentes puedan acceder a una página exclusiva para realizar sus pedidos y recogerlos directo en la sucursal fisica.
@@ -1343,18 +1347,37 @@ Sistema web completo de gestión para una librería/biblioteca. Permite administ
 - **Despliegue:** Render (web service + PostgreSQL)
 
 <details>
-<summary>▶ 🖼️ Ver capturas de pantalla</summary>
+<summary>🖼️ Ver capturas de pantalla</summary>
 
-| <img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/01-catalogo.png" alt="Catálogo de libros" width="800"/> |
-| <img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/02-modo-oscuro.png" alt="Modo oscuro" width="400"/> |
-| <img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/03-login.png" alt="Login unificado" width="400"/> |
-| <img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/04-admin-panel.png" alt="Panel administrador" width="400"/> |
-| <img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/05-libros-stock.png" alt="Gestión de libros y stock" width="400"/> |
-| <img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/06-bibliotecario-panel.png" alt="Panel bibliotecario" width="400"/>  
-<img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/07-carrito-ventas.png" alt="Carrito de ventas" width="400"/> |
-| <img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/08-portal-cliente.png" alt="Portal del cliente" width="400"/> |
-| <img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/09-facturas.png" alt="Reporte de facturas" width="400"/> |
-| <img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/10-proveedores.png" alt="Recepción de paquetes" width="800"/> |
+<br>
+
+<p align="center">
+  <img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/01-catalogo.png" alt="Catálogo de libros" width="800"/>
+</p>
+
+<p align="center">
+  <img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/02-modo-oscuro.png" alt="Modo oscuro" width="400"/>
+  <img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/03-login.png" alt="Login unificado" width="400"/>
+</p>
+
+<p align="center">
+  <img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/04-admin-panel.png" alt="Panel administrador" width="400"/>
+  <img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/05-libros-stock.png" alt="Gestión de libros y stock" width="400"/>
+</p>
+
+<p align="center">
+  <img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/06-bibliotecario-panel.png" alt="Panel bibliotecario" width="400"/>
+  <img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/07-carrito-ventas.png" alt="Carrito de ventas" width="400"/>
+</p>
+
+<p align="center">
+  <img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/08-portal-cliente.png" alt="Portal del cliente" width="400"/>
+  <img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/09-facturas.png" alt="Reporte de facturas" width="400"/>
+</p>
+
+<p align="center">
+  <img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/10-proveedores.png" alt="Recepción de paquetes" width="800"/>
+</p>
 
 </details>
 
